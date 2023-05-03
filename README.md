@@ -2,6 +2,8 @@
 Prova de struct
 ______________________________________
 
+CRITERIOS:
+
                     Prova 2 – Linguagem C (Questões teóricas);
 
 1) Crie um código em linguagem C para um sistema de cadastro simples para um sistema
